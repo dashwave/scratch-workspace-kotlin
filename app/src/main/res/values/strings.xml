@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scratch Kotlin Workspace</string>
+    <string name="stackInfo">"Jetpack Compose powered by "</string>
+</resources>
